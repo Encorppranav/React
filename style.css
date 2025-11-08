@@ -1,0 +1,28 @@
+#card{
+    height: 500px;
+    width: 30%;
+    border: 2px solid black;
+    max-width: fit-content;
+    border-radius: 8px;
+    overflow: hidden;
+        background-color: antiquewhite;
+}
+
+#card img{
+    height: 80%;
+    width: 20vw;
+    
+}
+
+#card h2, #card p{ 
+
+    margin:5px 0;
+    padding: 0px 20px;
+}
+
+.container2{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    justify-content: space-around;
+}
