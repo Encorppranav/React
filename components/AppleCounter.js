@@ -5,12 +5,8 @@ import LeftArrow from 'url:../assets/images/left.png';
 import RightArrow from 'url:../assets/images/right.png';
 import AppleBasket from './AppleBasket'
 
-import './AppleCounter.css'
+
 import { useState } from "react"
-
-
-
-
 
 
 
@@ -81,6 +77,7 @@ const AppleCounter = () => {
             </p>
 
         </>
+
     )
 }
 

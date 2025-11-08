@@ -1,3 +1,4 @@
+
 import LeftArrow from './assets/images/left.png'
 import AppleCounter from './components/AppleCounter'
 import Counter from './components/Counter'
@@ -10,6 +11,7 @@ const App = ({root}) => {
             
             
       </div>
+
 
 }
 

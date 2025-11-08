@@ -1,4 +1,6 @@
+
 const Button = ({imageUrl,buttonName,clickHandler})=>{
+
 
 
 
@@ -7,9 +9,12 @@ const Button = ({imageUrl,buttonName,clickHandler})=>{
     
 
     
+
     <button title= {buttonName} className="button" onClick={clickHandler}>
    
     <img src= {imageUrl} alt= {buttonName}/>   
+
+  
            
     </button>
    
