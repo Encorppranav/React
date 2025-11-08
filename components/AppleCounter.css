@@ -1,0 +1,29 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 65vw;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.button{
+    margin-top: 2rem;
+    display: flex;
+    height: 100px;
+    gap: 20px;
+    position: relative;
+    left: 10px;
+}
+
+.appleCounter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Arrow{
+    
+    display: flex;
+    gap: 10rem;
+    
+}
